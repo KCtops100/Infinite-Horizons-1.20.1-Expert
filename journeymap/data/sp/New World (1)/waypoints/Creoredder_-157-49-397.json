@@ -1,0 +1,24 @@
+{
+  "id": "Creoredder_-157-49-397",
+  "name": "Creoredder",
+  "groupName": ":Waystones",
+  "displayId": "8c983ee9-cdf7-4aa6-be5f-73de6ed078fd",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -157,
+  "y": -49,
+  "z": -397,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

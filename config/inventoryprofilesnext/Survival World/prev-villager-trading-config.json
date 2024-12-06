@@ -1,0 +1,103 @@
+{
+    "globalBookmarks": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:wheat"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:carrot"
+            }
+        ],
+        "fisherman": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:coal"
+            }
+        ],
+        "fletcher": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:stick"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:flint"
+            }
+        ],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "delightcook": [],
+        "___+++___ wandering ___+++___": [],
+        "agronomancer": [],
+        "create_better_villagers:andesite_worker": [],
+        "create_better_villagers:miner": [],
+        "shady_wizard": [],
+        "create_better_villagers:brassworker": [],
+        "apiarist": [],
+        "ae2:fluix_researcher": []
+    },
+    "globalBookmarks1": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "delightcook": [],
+        "___+++___ wandering ___+++___": [],
+        "agronomancer": [],
+        "create_better_villagers:andesite_worker": [],
+        "create_better_villagers:miner": [],
+        "shady_wizard": [],
+        "create_better_villagers:brassworker": [],
+        "apiarist": [],
+        "ae2:fluix_researcher": []
+    },
+    "globalBookmarks2": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "delightcook": [],
+        "___+++___ wandering ___+++___": [],
+        "agronomancer": [],
+        "create_better_villagers:andesite_worker": [],
+        "create_better_villagers:miner": [],
+        "shady_wizard": [],
+        "create_better_villagers:brassworker": [],
+        "apiarist": [],
+        "ae2:fluix_researcher": []
+    }
+}

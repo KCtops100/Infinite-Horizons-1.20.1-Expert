@@ -1,0 +1,24 @@
+{
+  "id": "Creomured_56-49-506",
+  "name": "Creomured",
+  "groupName": ":Waystones",
+  "displayId": "de4508be-4b1b-4019-b9ce-a6da67aaa414",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 56,
+  "y": -49,
+  "z": -506,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

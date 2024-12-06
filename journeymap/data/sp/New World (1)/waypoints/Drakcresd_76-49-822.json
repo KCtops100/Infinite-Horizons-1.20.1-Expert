@@ -1,0 +1,24 @@
+{
+  "id": "Drakcresd_76-49-822",
+  "name": "Drakcresd",
+  "groupName": ":Waystones",
+  "displayId": "7304d49e-a3ea-4975-91f5-99ecf53893e8",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 76,
+  "y": -49,
+  "z": -822,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

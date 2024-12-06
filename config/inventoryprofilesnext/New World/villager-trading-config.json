@@ -1,0 +1,101 @@
+{
+    "globalBookmarks": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:wheat"
+            }
+        ],
+        "fisherman": [],
+        "fletcher": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:stick"
+            }
+        ],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": [],
+        "delightchef": [],
+        "delightcook": [],
+        "shady_wizard": [],
+        "agronomancer": [
+            {
+                "resultItem": "mysticalagriculture:inferium_essence",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "blood_mage": [],
+        "beekeeper": [],
+        "apiarist": [],
+        "create_better_villagers:andesite_worker": [],
+        "create_better_villagers:brassworker": [],
+        "create_better_villagers:copperworker": []
+    },
+    "globalBookmarks1": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": [],
+        "delightchef": [],
+        "delightcook": [],
+        "shady_wizard": [],
+        "agronomancer": [],
+        "blood_mage": [],
+        "beekeeper": [],
+        "apiarist": [],
+        "create_better_villagers:andesite_worker": [],
+        "create_better_villagers:brassworker": [],
+        "create_better_villagers:copperworker": []
+    },
+    "globalBookmarks2": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": [],
+        "delightchef": [],
+        "delightcook": [],
+        "shady_wizard": [],
+        "agronomancer": [],
+        "blood_mage": [],
+        "beekeeper": [],
+        "apiarist": [],
+        "create_better_villagers:andesite_worker": [],
+        "create_better_villagers:brassworker": [],
+        "create_better_villagers:copperworker": []
+    }
+}

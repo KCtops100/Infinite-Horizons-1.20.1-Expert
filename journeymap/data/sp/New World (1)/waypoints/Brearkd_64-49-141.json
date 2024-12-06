@@ -1,0 +1,24 @@
+{
+  "id": "Brearkd_64-49-141",
+  "name": "Brearkd",
+  "groupName": ":Waystones",
+  "displayId": "d511baeb-62bf-471b-b7f1-22c6a7ff0246",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 64,
+  "y": -49,
+  "z": 141,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

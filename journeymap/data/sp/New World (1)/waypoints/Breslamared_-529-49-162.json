@@ -1,0 +1,24 @@
+{
+  "id": "Breslamared_-529-49-162",
+  "name": "Breslamared",
+  "groupName": ":Waystones",
+  "displayId": "3d64efac-daa9-4aac-841f-800fbac34589",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": -529,
+  "y": -49,
+  "z": 162,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
