@@ -1,8 +1,4 @@
 ServerEvents.recipes(event => {
-    //source gem
-    event.remove({ id: 'ars_nouveau:imbuement_lapis' })
-    event.remove({ id: 'ars_nouveau:imbuement_amethyst' })
-    event.recipes.ars_nouveau.imbuement('mysticalagriculture:prosperity_gemstone', 'ars_nouveau:source_gem', 500, [])
     // novice spell book
     event.remove({ id: 'ars_nouveau:novice_spell_book' })
     event.recipes.ars_nouveau.enchanting_apparatus(
@@ -22,9 +18,13 @@ ServerEvents.recipes(event => {
     event.recipes.ars_nouveau.enchanting_apparatus(
         [
             'forbidden_arcanus:obsidian_ingot',
-            '3x mysticalagriculture:prudentium_gemstone',
-            '2x botania:quartz_blaze',
-            '2x naturesaura:fortress_finder'
+            'mysticalagriculture:prudentium_gemstone',
+            'mysticalagriculture:prudentium_gemstone',
+            'mysticalagriculture:prudentium_gemstone',
+            'botania:quartz_blaze',
+            'botania:quartz_blaze',
+            'naturesaura:fortress_finder',
+            'naturesaura:fortress_finder'
         ],
 	    'ars_nouveau:novice_spell_book',
 	    'ars_nouveau:apprentice_spell_book',
@@ -37,8 +37,11 @@ ServerEvents.recipes(event => {
         [
             'forbidden_arcanus:dark_nether_star',
             'ars_nouveau:wilden_tribute',
-            '2x minecraft:emerald',
-            '3x thermal:enderium_ingot',
+            'minecraft:emerald',
+            'minecraft:emerald',
+            'thermal:enderium_ingot',
+            'thermal:enderium_ingot',
+            'thermal:enderium_ingot',
             'minecraft:totem_of_undying'
         ],
 	    'ars_nouveau:apprentice_spell_book',
@@ -46,4 +49,8 @@ ServerEvents.recipes(event => {
 	    4000,
 	    true
 	);
+    //source gem
+    event.remove({ id: 'ars_nouveau:imbuement_lapis' })
+    event.remove({ id: 'ars_nouveau:imbuement_amethyst' })
+    event.recipes.ars_nouveau.imbuement('mysticalagriculture:prosperity_gemstone', 'ars_nouveau:source_gem', 500, [])
 })

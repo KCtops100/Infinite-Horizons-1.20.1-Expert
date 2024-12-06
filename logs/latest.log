@@ -21367,3 +21367,984 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
 [14:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
 [14:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10639ms or 212 ticks behind
+[14:48:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4529ms or 90 ticks behind
+[14:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[14:49:00] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:49:03] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:49:04] [Render thread/WARN]: Received passengers for unknown entity
+[14:49:05] [Server thread/INFO]: [KCtops6: Removed 6 item(s) from player KCtops6]
+[14:49:05] [Render thread/INFO]: [CHAT] Removed 6 item(s) from player KCtops6
+[14:49:05] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:49:07] [Server thread/INFO]: [KCtops6: Gave 1 [Mage's Spell Book] to KCtops6]
+[14:49:07] [Render thread/INFO]: [CHAT] Gave 1 [Mage's Spell Book] to KCtops6
+[14:49:08] [Server thread/INFO]: [KCtops6: Gave 1 [Mage's Spell Book] to KCtops6]
+[14:49:08] [Render thread/INFO]: [CHAT] Gave 1 [Mage's Spell Book] to KCtops6
+[14:49:10] [Server thread/INFO]: KCtops6 has made the advancement [Mage's Spell Book]
+[14:49:10] [Render thread/INFO]: [CHAT] KCtops6 has made the advancement [Mage's Spell Book]
+[14:49:10] [Render thread/INFO]: Loaded 2978 advancements
+[14:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[14:49:34] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:49:35] [Server thread/INFO]: [KCtops6: Gave 1 [Eye of the Blaze] to KCtops6]
+[14:49:35] [Render thread/INFO]: [CHAT] Gave 1 [Eye of the Blaze] to KCtops6
+[14:49:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
+[14:49:38] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:49:57] [Server thread/INFO]: [KCtops6: Gave 1 [Blaze Quartz] to KCtops6]
+[14:49:57] [Render thread/INFO]: [CHAT] Gave 1 [Blaze Quartz] to KCtops6
+[14:49:59] [Render thread/INFO]: Loaded 2979 advancements
+[14:50:00] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[14:50:43] [Server thread/INFO]: [KCtops6: Gave 1 [Novice Spell Book] to KCtops6]
+[14:50:43] [Render thread/INFO]: [CHAT] Gave 1 [Novice Spell Book] to KCtops6
+[14:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13244ms or 264 ticks behind
+[14:51:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5566ms or 111 ticks behind
+[14:51:26] [Render thread/INFO]: Redirecting mekanism/client/gui/GuiUtils$TilingDirection
+[14:51:26] [Render thread/INFO]: Redirecting mekanism/tools/client/ShieldTextures
+[14:51:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[14:51:34] [Server thread/INFO]: [KCtops6: Gave 1 [Processed Obsidian Block] to KCtops6]
+[14:51:34] [Render thread/INFO]: [CHAT] Gave 1 [Processed Obsidian Block] to KCtops6
+[14:51:38] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:51:40] [Server thread/INFO]: [KCtops6: Gave 1 [Obsidian Ingot] to KCtops6]
+[14:51:40] [Render thread/INFO]: [CHAT] Gave 1 [Obsidian Ingot] to KCtops6
+[14:51:41] [Render thread/INFO]: Loaded 2980 advancements
+[14:51:44] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:51:50] [Server thread/INFO]: [KCtops6: Gave 1 [Prudentium Gemstone] to KCtops6]
+[14:51:50] [Render thread/INFO]: [CHAT] Gave 1 [Prudentium Gemstone] to KCtops6
+[14:51:50] [Server thread/INFO]: [KCtops6: Gave 1 [Prudentium Gemstone] to KCtops6]
+[14:51:50] [Render thread/INFO]: [CHAT] Gave 1 [Prudentium Gemstone] to KCtops6
+[14:51:51] [Server thread/INFO]: [KCtops6: Gave 1 [Prudentium Gemstone] to KCtops6]
+[14:51:51] [Render thread/INFO]: [CHAT] Gave 1 [Prudentium Gemstone] to KCtops6
+[14:51:51] [Server thread/INFO]: [KCtops6: Gave 1 [Prudentium Gemstone] to KCtops6]
+[14:51:51] [Render thread/INFO]: [CHAT] Gave 1 [Prudentium Gemstone] to KCtops6
+[14:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[14:52:01] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:52:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[14:52:15] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:52:22] [Server thread/INFO]: [KCtops6: Gave 1 [Blaze Quartz] to KCtops6]
+[14:52:22] [Render thread/INFO]: [CHAT] Gave 1 [Blaze Quartz] to KCtops6
+[14:52:24] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:52:25] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:52:28] [Server thread/INFO]: [KCtops6: Gave 1 [Eye of the Blaze] to KCtops6]
+[14:52:28] [Render thread/INFO]: [CHAT] Gave 1 [Eye of the Blaze] to KCtops6
+[14:52:30] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
+[14:53:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13915ms or 278 ticks behind
+[14:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22625ms or 452 ticks behind
+[14:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9712ms or 194 ticks behind
+[14:54:39] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:54:42] [Render thread/INFO]: [CHAT] - ['ars_nouveau:apprentice_spell_book', 'ars_nouveau:novice_spell_book', 'forbidden_arcanus:obsidian_ingot', '3x mysticalagriculture:prudentium_gemstone', '2x botania:quartz_blaze', '2x naturesaura:fortress_finder']
+[14:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
+[14:55:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25245ms or 504 ticks behind
+[14:55:28] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:55:40] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:55:42] [Server thread/INFO]: [KCtops6: Removed 10 item(s) from player KCtops6]
+[14:55:42] [Render thread/INFO]: [CHAT] Removed 10 item(s) from player KCtops6
+[14:55:43] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7981ms or 159 ticks behind
+[14:55:47] [Server thread/INFO]: [KCtops6: Gave 1 [Archmage Spell Book] to KCtops6]
+[14:55:47] [Render thread/INFO]: [CHAT] Gave 1 [Archmage Spell Book] to KCtops6
+[14:55:48] [Server thread/INFO]: KCtops6 has made the advancement [Archmage Spell Book]
+[14:55:48] [Render thread/INFO]: [CHAT] KCtops6 has made the advancement [Archmage Spell Book]
+[14:55:48] [Render thread/INFO]: Loaded 2980 advancements
+[14:55:51] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:55:51] [Server thread/INFO]: [KCtops6: Gave 1 [Mage's Spell Book] to KCtops6]
+[14:55:51] [Render thread/INFO]: [CHAT] Gave 1 [Mage's Spell Book] to KCtops6
+[14:55:59] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:56:03] [Server thread/INFO]: [KCtops6: Gave 1 [Totem of Undying] to KCtops6]
+[14:56:03] [Render thread/INFO]: [CHAT] Gave 1 [Totem of Undying] to KCtops6
+[14:56:05] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:56:07] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:56:12] [Server thread/INFO]: [KCtops6: Gave 1 [Enderium Ingot] to KCtops6]
+[14:56:12] [Render thread/INFO]: [CHAT] Gave 1 [Enderium Ingot] to KCtops6
+[14:56:15] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:56:15] [Server thread/INFO]: [KCtops6: Gave 1 [Enderium Ingot] to KCtops6]
+[14:56:16] [Render thread/INFO]: [CHAT] Gave 1 [Enderium Ingot] to KCtops6
+[14:56:17] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:56:19] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:56:20] [Server thread/INFO]: [KCtops6: Gave 1 [Enderium Ingot] to KCtops6]
+[14:56:20] [Render thread/INFO]: [CHAT] Gave 1 [Enderium Ingot] to KCtops6
+[14:56:20] [Server thread/INFO]: [KCtops6: Gave 1 [Enderium Ingot] to KCtops6]
+[14:56:20] [Render thread/INFO]: [CHAT] Gave 1 [Enderium Ingot] to KCtops6
+[14:56:23] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:56:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5968ms or 119 ticks behind
+[14:56:49] [Render thread/WARN]: Received passengers for unknown entity
+[14:56:56] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:56:58] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:57:05] [Server thread/INFO]: [KCtops6: Gave 1 [Emerald] to KCtops6]
+[14:57:05] [Render thread/INFO]: [CHAT] Gave 1 [Emerald] to KCtops6
+[14:57:06] [Server thread/INFO]: [KCtops6: Gave 1 [Emerald] to KCtops6]
+[14:57:06] [Render thread/INFO]: [CHAT] Gave 1 [Emerald] to KCtops6
+[14:57:06] [Server thread/INFO]: [KCtops6: Gave 1 [Emerald] to KCtops6]
+[14:57:06] [Render thread/INFO]: [CHAT] Gave 1 [Emerald] to KCtops6
+[14:57:09] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:57:15] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:57:19] [Server thread/INFO]: [KCtops6: Gave 1 [Wilden Tribute] to KCtops6]
+[14:57:19] [Render thread/INFO]: [CHAT] Gave 1 [Wilden Tribute] to KCtops6
+[14:57:20] [Server thread/INFO]: KCtops6 has made the advancement [Wilden Tribute]
+[14:57:20] [Render thread/INFO]: [CHAT] KCtops6 has made the advancement [Wilden Tribute]
+[14:57:20] [Render thread/INFO]: Loaded 2981 advancements
+[14:57:21] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:57:39] [Server thread/INFO]: [KCtops6: Gave 1 [Dark Nether Star] to KCtops6]
+[14:57:39] [Render thread/INFO]: [CHAT] Gave 1 [Dark Nether Star] to KCtops6
+[14:57:42] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:57:43] [Server thread/INFO]: [KCtops6: Gave 1 [Dark Nether Star] to KCtops6]
+[14:57:43] [Render thread/INFO]: [CHAT] Gave 1 [Dark Nether Star] to KCtops6
+[14:57:43] [Render thread/INFO]: Loaded 2982 advancements
+[14:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5217ms or 104 ticks behind
+[14:58:06] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:58:08] [Render thread/INFO]: [CHAT] - ['ars_nouveau:archmage_spell_book', 'ars_nouveau:apprentice_spell_book', 'forbidden_arcanus:dark_nether_star', 'ars_nouveau:wilden_tribute', '2x minecraft:emerald', '3x thermal:enderium_ingot', 'minecraft:totem_of_undying']
+[14:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7222ms or 144 ticks behind
+[14:58:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13190ms or 263 ticks behind
+[14:58:49] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:59:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16086ms or 321 ticks behind
+[14:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[14:59:37] [Server thread/INFO]: Added bindings for script type SERVER from mod 'almostunified': [AlmostUnified]
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:ars nouveau imbuement/sourceberry.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:botany_pots.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:cooking_for_blockheads/crafting_book.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/andesite_gravel.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/diorite_gravel.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/dust.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/granite_gravel.js in 0.002 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/limestone_gravel.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/sand.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/tuff_gravel.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/pam's harvestcraft/ground_meats_crushing.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create milling/dust.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create milling/pam's harvestcraft/ground_meats_milling.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create milling/sand.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/alloys.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/create/stone_alloy.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/dielectric_paste.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/extended crafting/luminesence.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/kubejs/chicken_fried_steak_ingot.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/kubejs/dark_matter.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/kubejs/infinitium_ingot.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/lava.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/mystical_agriculture.js/wither_skeleton_essence.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/projectE/high_covalence_dust.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/projectE/low_covalence_dust.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/projectE/medium_covalence_dust.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create pressing/plates.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create_mechanical_extruder.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create_sifter.js in 0.018 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/create_washing.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/filling/honey_treat.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/iesnium_ingot.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:create/replace_andesite_alloy.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/bamboo_leaves.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/bastion_fruit.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/bombegrantie.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/flashpine.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/frostaya.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/mendosteen.js in 0.003 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/pebble.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/tree_bark.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom block drops/twig.js in 0.002 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/bountiful/bounty_board.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_1.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_2.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_3.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_4.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_5.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/gregtech/FE_EU_Converters.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/agronomancer_workbench.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/apiarist_workbench.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/brass_mesh.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/chicken_fried_steak_sword.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/copper_mesh.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/iron_mesh.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/netherite_mesh.js in 0.002 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/netherite_wire.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/stone_alloy.js in 0.001 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/weak_echo_shard.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/mystical_agriculture_essence_uses.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/nature's aura/bottled_darkness.js in 0.0 s
+[14:59:37] [Server thread/INFO]: Loaded script server_scripts:custom recipes/nature's aura/bottled_ghosts.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/nature's aura/gold_leaf.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/nature's aura/rose_of_oblivion.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/ore_trees.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/arid_garden.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/frost_garden.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/shaded_garden.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/soggy_garden.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/tropical_garden.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/windy_garden.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/projectE/dark_matter.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/projectE/red_matter.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/summoning_altar.js in 0.005 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/torchmaster/megatorch.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/big_dripleaf.js in 0.003 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/chest.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/dragons_breath.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/enchanted_golden_apple.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/hopper.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/sculk.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/seagrass.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/small_dripleaf.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/agronomancer.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/apiarist.js in 0.002 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/blue_archwood_sapling.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/green_archwood_sapling.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/purple_archwood_sapling.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/red_archwood_sapling.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/yellow_archwood_sapling.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/pams_harvestcraft.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/vanilla/amethyst.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/vanilla/ink_sac.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/dungeon_keys.js in 0.005 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/explorer_map.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/music_discs.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/pottery_sherds.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/smithing_templates.js in 0.003 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/sniffer_egg.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/suspicious_sand_templates.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom_entity_drops.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom_gravels.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:custom_recipies_thermal.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:cutting board/pickaxe/dust.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:cutting board/pickaxe/gravel.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:cutting board/pickaxe/sand.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:cutting board/shovel/iron_nugget.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:cutting board/shovel/pebble.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:expert mode recipes/ars_elemental.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:expert mode recipes/ars_nouveau.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/bomb.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/magical_sword.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/red_candle.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/sword.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/white_sword.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/wooden_shield.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/misc/replacingBlackIronBlock.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/misc/replacingBlackIronIngot.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/misc/replacingBlackIronPlate.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:extended crafting/ultimate crafting table/philosophers_stone.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:functional_storage.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech/assembler/create/electron_tube.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech/assembler/thermal series/machine_frame.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech/autoclave/create/rose_quartz.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech/autoclave/redstone arsenal/flux_gem.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech/gas collector/ender_air.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech/gas collector/nether_air.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech/mixer/redstone arsenal/flux_dust.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech/removing_surface_ores.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:gregtech_milling_and_crushing/calcite.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:industrial_foregoing.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:mystical_agriculture_essence_uses/blaze_burner.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:mystical_agriculture_essence_uses/BOTANIA_ender_air_bottle.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:mystical_agriculture_essence_uses/cobbled_soulstone.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:mystical_agriculture_essence_uses/wooden_lava_bucket.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:natural altar infusion/tained_gold_block.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:natural altar infusion/tainted_gold.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:powah.js in 0.004 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:removing_recipes.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/catalysts.js in 0.002 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/dragon_egg_essence.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/iron_spellbooks.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/axolotl.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/basalz.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/blaze.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/blitz.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/blizz.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/camel.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/dolphin.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/drowned.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/elder_guardian.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/evoker.js in 0.024 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/fox.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/frog.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/ghast.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/glow_squid.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/goat.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/guardian.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/hoglin.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/husk.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/llama.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/magma_cube.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/mooshroom.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/panda.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/parrot.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/piglin.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/pillager_and_allay.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/polar_bear.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/shulker.js in 0.002 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/slime.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/squid.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/stray.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/turtle.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/warden.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/wither_skeleton.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/wolf.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/nature's aura/eye_of_the_blaze.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/nature's aura/eye_of_the_pillager.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/nature's aura/eye_of_the_shulker.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/andesite alloy/actual_andesite_alloy.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/andesite alloy/stone_alloy.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/dust.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/ingot.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/plate.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/plates/netherite_plate.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/silicon.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/steam.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:tags/wires/netherite_wire.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/ingot_of_the_depths.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/imperium_ingot.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/imperium_ingot_block.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/inferium_ingot.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/inferium_ingot_block.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/insanium_ingot.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/prosperity_ingot.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/prudentium_ingot.js in 0.013 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/prudentium_ingot_block.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/supremium_ingot.js in 0.001 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/supremium_ingot_block.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/tertium_ingot.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/tertium_ingot_block.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal pulverizer/gold_powder.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded script server_scripts:thermal pulverizer catalyst/glyph_of_crush.js in 0.0 s
+[14:59:38] [Server thread/INFO]: Loaded 203/203 KubeJS server scripts in 0.349 s with 0 errors and 0 warnings
+[14:59:38] [Render thread/INFO]: [CHAT] Done! To reload recipes, tags, loot tables and other datapack things, run '/reload'
+[14:59:39] [Server thread/INFO]: [KCtops6: Reloading!]
+[14:59:39] [Render thread/INFO]: [CHAT] Reloading!
+[14:59:39] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 42 ms
+[14:59:39] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 37 ms
+[14:59:40] [Server thread/INFO]: Added bindings for script type SERVER from mod 'almostunified': [AlmostUnified]
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:ars nouveau imbuement/sourceberry.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:botany_pots.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:cooking_for_blockheads/crafting_book.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/andesite_gravel.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/diorite_gravel.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/dust.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/granite_gravel.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/limestone_gravel.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/sand.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/gravels/tuff_gravel.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create crushing/pam's harvestcraft/ground_meats_crushing.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create milling/dust.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create milling/pam's harvestcraft/ground_meats_milling.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create milling/sand.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/alloys.js in 0.016 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/create/stone_alloy.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/dielectric_paste.js in 0.005 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/extended crafting/luminesence.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/kubejs/chicken_fried_steak_ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/kubejs/dark_matter.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/kubejs/infinitium_ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/lava.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/mystical_agriculture.js/wither_skeleton_essence.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/projectE/high_covalence_dust.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/projectE/low_covalence_dust.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create mixing/projectE/medium_covalence_dust.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create pressing/plates.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create_mechanical_extruder.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create_sifter.js in 0.027 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/create_washing.js in 0.002 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/filling/honey_treat.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/iesnium_ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:create/replace_andesite_alloy.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/bamboo_leaves.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/bastion_fruit.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/bombegrantie.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/flashpine.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/frostaya.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/mendosteen.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/pebble.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/tree_bark.js in 0.006 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom block drops/twig.js in 0.003 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/bountiful/bounty_board.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_1.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_2.js in 0.002 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_3.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_4.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/cobblefordays/cobble_gen_tier_5.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/gregtech/FE_EU_Converters.js in 0.002 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/agronomancer_workbench.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/apiarist_workbench.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/brass_mesh.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/chicken_fried_steak_sword.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/copper_mesh.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/iron_mesh.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/netherite_mesh.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/netherite_wire.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/stone_alloy.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/kubejs/weak_echo_shard.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/mystical_agriculture_essence_uses.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/nature's aura/bottled_darkness.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/nature's aura/bottled_ghosts.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/nature's aura/gold_leaf.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/nature's aura/rose_of_oblivion.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/ore_trees.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/arid_garden.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/frost_garden.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/shaded_garden.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/soggy_garden.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/tropical_garden.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/pams harvestcraft/windy_garden.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/projectE/dark_matter.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/projectE/red_matter.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/summoning_altar.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/torchmaster/megatorch.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/big_dripleaf.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/chest.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/dragons_breath.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/enchanted_golden_apple.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/hopper.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/sculk.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/seagrass.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom recipes/vanilla/small_dripleaf.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/agronomancer.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/apiarist.js in 0.002 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/blue_archwood_sapling.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/green_archwood_sapling.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/purple_archwood_sapling.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/red_archwood_sapling.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/archwood_saplings/yellow_archwood_sapling.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/pams_harvestcraft.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/vanilla/amethyst.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom villager trades/vanilla/ink_sac.js in 0.003 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/dungeon_keys.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/explorer_map.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/music_discs.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/pottery_sherds.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/smithing_templates.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/sniffer_egg.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom wandering trader trades/suspicious_sand_templates.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom_entity_drops.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom_gravels.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:custom_recipies_thermal.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:cutting board/pickaxe/dust.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:cutting board/pickaxe/gravel.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:cutting board/pickaxe/sand.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:cutting board/shovel/iron_nugget.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:cutting board/shovel/pebble.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:expert mode recipes/ars_elemental.js in 0.002 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:expert mode recipes/ars_nouveau.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/bomb.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/magical_sword.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/red_candle.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/sword.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/white_sword.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/combination crafting/wooden_shield.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/misc/replacingBlackIronBlock.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/misc/replacingBlackIronIngot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/misc/replacingBlackIronPlate.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:extended crafting/ultimate crafting table/philosophers_stone.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:functional_storage.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech/assembler/create/electron_tube.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech/assembler/thermal series/machine_frame.js in 0.004 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech/autoclave/create/rose_quartz.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech/autoclave/redstone arsenal/flux_gem.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech/gas collector/ender_air.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech/gas collector/nether_air.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech/mixer/redstone arsenal/flux_dust.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech/removing_surface_ores.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:gregtech_milling_and_crushing/calcite.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:industrial_foregoing.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:mystical_agriculture_essence_uses/blaze_burner.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:mystical_agriculture_essence_uses/BOTANIA_ender_air_bottle.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:mystical_agriculture_essence_uses/cobbled_soulstone.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:mystical_agriculture_essence_uses/wooden_lava_bucket.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:natural altar infusion/tained_gold_block.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:natural altar infusion/tainted_gold.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:powah.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:removing_recipes.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/catalysts.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/dragon_egg_essence.js in 0.003 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/iron_spellbooks.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/axolotl.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/basalz.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/blaze.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/blitz.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/blizz.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/camel.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/dolphin.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/drowned.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/elder_guardian.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/evoker.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/fox.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/frog.js in 0.004 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/ghast.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/glow_squid.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/goat.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/guardian.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/hoglin.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/husk.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/llama.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/magma_cube.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/mooshroom.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/panda.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/parrot.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/piglin.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/pillager_and_allay.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/polar_bear.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/shulker.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/slime.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/squid.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/stray.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/turtle.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/warden.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/wither_skeleton.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/mob summoning/wolf.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/nature's aura/eye_of_the_blaze.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/nature's aura/eye_of_the_pillager.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:summoning_altar/nature's aura/eye_of_the_shulker.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/andesite alloy/actual_andesite_alloy.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/andesite alloy/stone_alloy.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/dust.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/plate.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/plates/netherite_plate.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/silicon.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/steam.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:tags/wires/netherite_wire.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/ingot_of_the_depths.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/imperium_ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/imperium_ingot_block.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/inferium_ingot.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/inferium_ingot_block.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/insanium_ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/prosperity_ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/prudentium_ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/prudentium_ingot_block.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/supremium_ingot.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/supremium_ingot_block.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/tertium_ingot.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal induction smelter/mystical agriculture/tertium_ingot_block.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal pulverizer/gold_powder.js in 0.0 s
+[14:59:40] [Server thread/INFO]: Loaded script server_scripts:thermal pulverizer catalyst/glyph_of_crush.js in 0.001 s
+[14:59:40] [Server thread/INFO]: Loaded 203/203 KubeJS server scripts in 0.455 s with 0 errors and 0 warnings
+[14:59:40] [Server thread/INFO]: Scripts loaded
+[14:59:40] [Server thread/INFO]: Initializing recipe event...
+[14:59:40] [Server thread/INFO]: Adding serverside commands..
+[14:59:40] [Server thread/INFO]: Loading command nodes...
+[14:59:40] [Server thread/INFO]: Loaded 3322 command nodes
+[14:59:43] [Server thread/INFO]: [KCtops6: Removed 10 item(s) from player KCtops6]
+[14:59:43] [Render thread/INFO]: [CHAT] Removed 10 item(s) from player KCtops6
+[14:59:43] [Worker-ResourceReload-12/INFO]: [minecraft:block] Found 2107 tags, added 12 objects, removed 0 objects
+[14:59:44] [Render thread/INFO]: net.minecraft.client.gui.screens.inventory.InventoryScreen
+[14:59:46] [Worker-ResourceReload-13/INFO]: [minecraft:item] Found 7292 tags, added 48 objects, removed 0 objects
+[14:59:46] [Worker-ResourceReload-13/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag supplementaries:lunch_basket_blacklist: potionbundles:potion_bundle (from supplementaries-1.20-3.1.11.jar)
+[14:59:46] [Worker-ResourceReload-13/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag forge:hardened_stone: #enviromats:hardened_stone (from enviromats-1.20.1-2.1.4.0.jar)
+[14:59:46] [Worker-ResourceReload-13/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag forge:basalt: #enviromats:basalt (from enviromats-1.20.1-2.1.4.0.jar)
+[14:59:46] [Worker-ResourceReload-13/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag forge:marble: #enviromats:marble (from enviromats-1.20.1-2.1.4.0.jar)
+[14:59:46] [Worker-ResourceReload-13/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag forge:granodiorite: #enviromats:granodiorite (from enviromats-1.20.1-2.1.4.0.jar)
+[14:59:46] [Worker-ResourceReload-13/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag forge:pumice: #enviromats:pumice (from enviromats-1.20.1-2.1.4.0.jar)
+[14:59:46] [Worker-ResourceReload-13/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag forge:travertine: #enviromats:travertine (from enviromats-1.20.1-2.1.4.0.jar)
+[14:59:46] [Worker-ResourceReload-13/WARN]: The following tags are invalid and will be ignored: [forge:raw_materials/amber, forge:ores/onion, forge:raw_materials/tungsten, forge:dusts/spinach, forge:wires/silver, forge:seeds/tungsten, forge:bronze, forge:storage_blocks/raw_aluminum, forge:storage_blocks/raw_lumium, forge:gems/osmium, forge:gems/cabbage, forge:crops/fluorite, forge:raw_materials/coal_coke, forge:crops/netherite, forge:nuggets/cabbage, forge:ores/amber, forge:wires/cabbage, forge:raw_materials/steel, forge:tomato, forge:crops/lapis, forge:wires/iridium, forge:storage_blocks/raw_netherite, forge:seeds/brass, forge:storage_blocks/raw_mithril, forge:storage_blocks/flax, forge:ores/steel, forge:sulfur, forge:gems/silver, forge:gems/tin, forge:rods/aeternium, forge:rods/charcoal, forge:nuggets/peridot, forge:rods/coal, forge:wires/amber, forge:gems/iridium, forge:wires/steel, forge:storage_blocks/raw_fluorite, forge:gems/gold, forge:uranium, forge:seeds/steam, forge:seeds/silver, forge:seeds/diamond, forge:storage_blocks/raw_bitumen, forge:dusts/potassium_nitrate, forge:raw_materials/onion, forge:ores/spinach, forge:nuggets/flax, forge:gears/graphite, forge:storage_blocks/graphite, forge:wires/platinum, forge:storage_blocks/raw_quartz, forge:raw_materials/silicon, forge:wires/osmium, forge:crops/sapphire, forge:wires/diamond, forge:wires/ruby, forge:titanium, forge:ingots/steam, forge:nuggets/charcoal, forge:onion, forge:gems/invar, forge:gears/cobalt, forge:raw_materials/bitumen, forge:wires/uranium, forge:dusts/amber, forge:gears/flax, forge:gears/honey, forge:gems/nickel, forge:storage_blocks/raw_tomato, forge:seeds/iridium, forge:raw_materials/obsidian, forge:rods/signalum, forge:wires/sapphire, forge:seeds/osmium, forge:seeds/lapis, forge:dusts/flax, forge:gems/electrum, forge:plates/apatite, forge:rods/netherite, forge:rods/bitumen, forge:crops/uranium, forge:emerald, forge:peridot, forge:nuggets/potassium_nitrate, forge:iron, forge:ores/enderium, forge:raw_materials/charcoal, forge:amber, forge:seeds/mithril, forge:wires/netherite, forge:seeds/obsidian, forge:wires/emerald, forge:steel, forge:crops/nickel, forge:nuggets/coal_coke, forge:wires/zinc, forge:crops/emerald, forge:gears/platinum, forge:raw_materials/signalum, forge:ores/flax, forge:ingots/spinach, forge:gold, forge:dusts/tomato, forge:ores/tungsten, forge:ingots/flax, forge:wires/coal, forge:seeds/steel, forge:wires/fluorite, forge:crops/obsidian, forge:ores/coal_coke, forge:plates/charcoal, forge:storage_blocks/raw_enderium, forge:gears/aeternium, forge:raw_materials/spinach, forge:constantan, forge:rods/sulfur, forge:wires/peridot, forge:tungsten, forge:crops/apatite, forge:tin, forge:apatite, forge:storage_blocks/raw_onion, forge:storage_blocks/onion, forge:wires/cinnabar, forge:ores/potassium_nitrate, forge:nuggets/aluminum, forge:ingots/mithril, forge:wires/tomato, forge:wires/bronze, forge:crops/coal, forge:wires/elementium, forge:gems/zinc, forge:gears/silicon, forge:dusts/chrome, forge:storage_blocks/raw_peridot, forge:crops/osmium, forge:silver, forge:ores/brass, forge:raw_materials/mithril, forge:storage_blocks/raw_amber, forge:wires/obsidian, forge:gems/mithril, forge:ores/iridium, forge:wires/aeternium, forge:crops/peridot, forge:ingots/lapis, forge:storage_blocks/raw_elementium, forge:zinc, forge:ingots/ruby, forge:gears/aluminum, forge:potassium_nitrate, forge:ores/titanium, forge:nuggets/sulfur, forge:nuggets/steam, forge:crops/amber, forge:rods/chrome, forge:crops/honey, forge:gems/brass, forge:ores/constantan, forge:seeds/copper, forge:quartz, forge:storage_blocks/raw_charcoal, forge:rice, forge:ingots/bitumen, forge:osmium, forge:nuggets/obsidian, forge:seeds/bronze, forge:nuggets/fluorite, forge:storage_blocks/raw_tungsten, forge:raw_materials/aluminum, forge:crops/signalum, forge:gears/zinc, forge:nuggets/sapphire, forge:iridium, forge:crops/tungsten, forge:rods/tomato, forge:raw_materials/enderium, forge:plates/potassium_nitrate, forge:seeds/coal_coke, forge:seeds/constantan, forge:seeds/electrum, forge:lumium, forge:seeds/aeternium, forge:seeds/potassium_nitrate, forge:ingots/coal_coke, forge:ores/netherite, forge:cinnabar, forge:gears/osmium, forge:raw_materials/titanium, forge:ores/peridot, forge:crops/zinc, forge:crops/cobalt, forge:crops/iridium, forge:raw_materials/constantan, forge:dusts/bitumen, forge:raw_materials/elementium, forge:plates/coal_coke, forge:plates/coal, forge:gems/honey, forge:rods/cabbage, forge:crops/graphite, forge:crops/brass, forge:gears/cabbage, forge:seeds/elementium, forge:seeds/platinum, forge:gems/chrome, forge:rods/elementium, forge:ores/tomato, forge:platinum, forge:spinach, forge:raw_materials/invar, forge:netherite, forge:gems/silicon, forge:seeds/lead, forge:wires/silicon, forge:coal, forge:plates/honey, forge:raw_materials/bronze, forge:seeds/netherite, forge:gems/rice, forge:gems/potassium_nitrate, forge:crops/platinum, forge:gems/coal_coke, forge:gems/uranium, forge:rods/lumium, forge:wires/potassium_nitrate, forge:storage_blocks/raw_bronze, forge:rods/constantan, forge:brass, forge:storage_blocks/cabbage, forge:wires/cobalt, forge:ores/invar, forge:plates/spinach, forge:chrome, forge:storage_blocks/steam, forge:plates/cinnabar, forge:seeds/cobalt, forge:gems/iron, forge:wires/graphite, forge:raw_materials/rice, forge:crops/cinnabar, forge:ores/bitumen, forge:ores/obsidian, forge:gems/enderium, forge:rods/nickel, forge:signalum, forge:gems/peridot, forge:gears/brass, forge:rods/onion, forge:mithril, forge:gems/titanium, forge:seeds/signalum, forge:plates/graphite, forge:crops/ruby, forge:aeternium, forge:gems/aluminum, forge:rods/obsidian, forge:storage_blocks/raw_cabbage, forge:wires/steam, forge:crops/copper, forge:seeds/cinnabar, forge:ores/charcoal, forge:seeds/emerald, forge:wires/constantan, forge:raw_materials/brass, forge:storage_blocks/raw_obsidian, forge:wires/tungsten, forge:storage_blocks/raw_silicon, forge:ingots/amber, forge:storage_blocks/raw_potassium_nitrate, forge:crops/bitumen, forge:rods/potassium_nitrate, forge:wires/onion, forge:ingots/peridot, forge:gears/rice, forge:gems/netherite, forge:ores/aeternium, forge:rods/steam, forge:storage_blocks/potassium_nitrate, forge:rods/silicon, forge:crops/invar, forge:electrum, forge:nuggets/onion, forge:elementium, forge:fluorite, forge:seeds/apatite, forge:raw_materials/netherite, forge:crops/mithril, forge:nuggets/lapis, forge:plates/mithril, forge:ores/lumium, forge:wires/titanium, forge:crops/sulfur, forge:plates/aluminum, forge:storage_blocks/raw_electrum, forge:rods/fluorite, forge:gears/spinach, forge:ores/mithril, forge:plates/steam, forge:crops/gold, forge:gears/chrome, forge:storage_blocks/raw_coal_coke, forge:rods/peridot, forge:gears/tomato, forge:ingots/potassium_nitrate, forge:raw_materials/peridot, forge:copper, forge:storage_blocks/raw_constantan, forge:invar, forge:seeds/iron, forge:ingots/rice, forge:plates/quartz, forge:nuggets/apatite, forge:aluminum, forge:ingots/cinnabar, forge:dusts/mithril, forge:storage_blocks/aeternium, forge:plates/chrome, forge:storage_blocks/raw_spinach, forge:ruby, forge:ingots/emerald, forge:crops/charcoal, forge:ores/honey, forge:nickel, forge:storage_blocks/raw_rice, forge:enderium, forge:seeds/graphite, forge:raw_materials/iridium, forge:gears/charcoal, forge:ingots/tomato, forge:nuggets/graphite, forge:wires/quartz, forge:rods/flax, forge:ingots/chrome, forge:plates/bitumen, forge:dusts/aluminum, forge:ingots/aluminum, forge:lapis, forge:plates/aeternium, forge:gems/lumium, forge:plates/tomato, forge:raw_materials/honey, forge:dusts/honey, forge:dusts/aeternium, forge:rods/coal_coke, forge:rods/graphite, forge:gears/amber, forge:nuggets/honey, forge:gems/spinach, forge:gems/amber, forge:crops/chrome, forge:seeds/gold, forge:ingots/fluorite, forge:gears/cinnabar, forge:ores/elementium, forge:raw_materials/cabbage, forge:ores/silicon, forge:crops/electrum, forge:plates/amber, forge:wires/signalum, forge:gems/aeternium, forge:gears/sulfur, forge:gears/coal, forge:storage_blocks/raw_brass, forge:raw_materials/potassium_nitrate, forge:gems/constantan, forge:crops/potassium_nitrate, forge:gems/onion, forge:ingots/honey, forge:wires/coal_coke, forge:gears/potassium_nitrate, forge:storage_blocks/raw_invar, forge:gems/elementium, forge:storage_blocks/raw_steam, forge:nuggets/chrome, forge:crops/iron, forge:dusts/elementium, forge:raw_materials/quartz, forge:storage_blocks/rice, forge:rods/quartz, forge:wires/honey, forge:rods/enderium, forge:plates/fluorite, forge:plates/rice, forge:crops/elementium, forge:ingots/quartz, forge:storage_blocks/tomato, forge:nuggets/ruby, forge:crops/silver, forge:wires/apatite, forge:raw_materials/electrum, forge:plates/elementium, forge:ingots/cabbage, forge:gems/bitumen, forge:ingots/sapphire, forge:raw_materials/aeternium, forge:crops/tin, forge:gems/obsidian, forge:rods/aluminum, forge:storage_blocks/raw_titanium, forge:crops/bronze, forge:ores/bronze, forge:raw_materials/tomato, forge:storage_blocks/peridot, forge:graphite, forge:wires/flax, forge:crops/coal_coke, forge:seeds/nickel, forge:rods/cinnabar, forge:ingots/sulfur, forge:wires/lead, forge:gears/apatite, forge:gems/steel, forge:storage_blocks/honey, forge:ingots/coal, forge:crops/lumium, forge:wires/charcoal, forge:crops/constantan, forge:ores/chrome, forge:rods/spinach, forge:seeds/fluorite, forge:ingots/graphite, forge:raw_materials/fluorite, forge:seeds/chrome, forge:seeds/amber, forge:seeds/sapphire, forge:cabbage, forge:gems/tungsten, forge:storage_blocks/raw_flax, forge:seeds/bitumen, forge:storage_blocks/chrome, forge:storage_blocks/raw_signalum, forge:plates/peridot, forge:rods/honey, forge:ores/cabbage, forge:crops/quartz, forge:seeds/honey, forge:wires/mithril, forge:gems/lead, forge:seeds/ruby, forge:seeds/uranium, forge:dusts/peridot, forge:nuggets/bitumen, forge:storage_blocks/amber, forge:storage_blocks/raw_aeternium, forge:storage_blocks/raw_steel, forge:steam, forge:wires/bitumen, forge:nuggets/aeternium, forge:gears/peridot, forge:ingots/charcoal, forge:ingots/onion, forge:seeds/silicon, forge:seeds/lumium, forge:rods/mithril, forge:seeds/aluminum, forge:gems/flax, forge:nuggets/tomato, forge:gears/elementium, forge:gems/copper, forge:gems/bronze, forge:crops/lead, forge:gems/tomato, forge:gears/uranium, forge:crops/silicon, forge:gems/signalum, forge:diamond, forge:wires/sulfur, forge:plates/flax, forge:raw_materials/flax, forge:wires/tin, forge:wires/rice, forge:gears/fluorite, forge:ores/rice, forge:plates/onion, forge:wires/nickel, forge:seeds/coal, forge:ingots/aeternium, forge:crops/steel, forge:gems/steam, forge:rods/amber, forge:seeds/charcoal, forge:seeds/peridot, forge:nuggets/amber, forge:wires/enderium, forge:wires/brass, forge:storage_blocks/aluminum, forge:ores/signalum, forge:gems/graphite, forge:ores/electrum, forge:dusts/cabbage, forge:rods/rice, forge:seeds/sulfur, forge:wires/lumium, forge:storage_blocks/mithril, forge:nuggets/spinach, forge:seeds/quartz, forge:ingots/diamond, forge:seeds/invar, forge:wires/aluminum, forge:crops/diamond, forge:nuggets/cinnabar, forge:gems/platinum, forge:raw_materials/steam, forge:dusts/onion, forge:ores/steam, forge:ingots/apatite, forge:gears/obsidian, forge:storage_blocks/raw_chrome, forge:gears/onion, forge:gears/mithril, forge:crops/enderium, forge:crops/titanium, forge:seeds/tin, forge:plates/sulfur, forge:dusts/coal_coke, forge:nuggets/rice, forge:cobalt, forge:lead, forge:raw_materials/chrome, forge:seeds/zinc, forge:wires/lapis, forge:seeds/titanium, forge:nuggets/mithril, forge:storage_blocks/spinach, forge:crops/aluminum, forge:wires/chrome, forge:seeds/enderium, forge:wires/invar, forge:wires/spinach, forge:storage_blocks/raw_honey, forge:storage_blocks/raw_iridium, forge:raw_materials/lumium, forge:gems/cobalt, forge:charcoal, forge:gears/bitumen, forge:crops/aeternium, forge:gears/coal_coke, forge:flax, forge:crops/steam, forge:dusts/steam, forge:gears/steam, forge:plates/cabbage, forge:dusts/rice, forge:sapphire]
+[14:59:48] [Worker-ResourceReload-10/ERROR]: Couldn't parse element loot_tables:megacells:blocks/mega_emc_interface
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'megacells:mega_emc_interface'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[14:59:50] [Worker-ResourceReload-10/ERROR]: Couldn't parse element loot_tables:advgenerators:blocks/eu_output_iv
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'advgenerators:eu_output_iv'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[14:59:50] [Worker-ResourceReload-10/ERROR]: Couldn't parse element loot_tables:advgenerators:blocks/eu_output_hv
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'advgenerators:eu_output_hv'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[14:59:50] [Worker-ResourceReload-10/ERROR]: Couldn't parse element loot_tables:advgenerators:blocks/eu_output_ev
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'advgenerators:eu_output_ev'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[14:59:50] [Worker-ResourceReload-10/ERROR]: Couldn't parse element loot_tables:advgenerators:blocks/eu_output_mv
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'advgenerators:eu_output_mv'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[14:59:50] [Worker-ResourceReload-10/ERROR]: Couldn't parse element loot_tables:advgenerators:blocks/eu_output_lv
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'advgenerators:eu_output_lv'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.11-universal.jar%23775!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23770!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[14:59:53] [Server thread/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamlettucecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamparsnipcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamgarliccrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamwaterchestnutcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamartichokecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcattailcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamturnipcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamradishcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamchilipeppercrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamjicamacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamnettlescrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamblueberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamnopalescrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamspiceleafcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcactusfruitcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcantaloupecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamkiwicrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcottoncrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcalabashcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamstrawberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamsweetpotatocrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pammulberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pambrusselsproutcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamtomatocrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcorncrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcloudberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamonioncrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pameggplantcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamaloecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamsisalcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamyuccacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pambroccolicrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamrhubarbcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pammilletcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pambarleycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamtarocrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamoatscrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamagavecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcandleberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcassavacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamtealeafcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pampapyruscrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pampeanutcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcucumbercrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamrutabagacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pammustardseedscrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamscallioncrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pambarrelcactuscrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamkohlrabicrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamsesameseedscrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamhuckleberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamkalecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamzucchinicrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcranberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamguaranacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamgrapecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pampineapplecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamarrowrootcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamlotuscrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamlentilcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamelderberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pambeancrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamamaranthcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamchickpeacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamgingercrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamleekcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamryecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamwintersquashcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pambellpeppercrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamspinachcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamalfalfacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcanolacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamasparaguscrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamokracrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamsoybeancrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamricecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamquinoacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamsorghumcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamwhitemushroomcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamblackberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcauliflowercrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamjuniperberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcelerycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamjutecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamtomatillocrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamgreengrapecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamkenafcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcoffeebeancrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pambokchoycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamchiacrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamtrufflecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamflaxcrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamsunchokecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamwolfberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamcabbagecrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pampeascrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/WARN]: Found loot table element validation problem in {loot_tables:pamhc2crops:blocks/pamraspberrycrop}.pools[0].entries[0]: Unreachable entry!
+[14:59:53] [Server thread/INFO]: Registered 36 additional loot tables.
+[14:59:54] [Server thread/WARN]: Recipe count: 71276
+[14:59:55] [Server thread/WARN]: Item 'farmersdelight:rice' has multiple preferred tags '[forge:crops/rice, forge:seeds/rice]' for recipe replacement. This needs to be manually fixed by the user.
+[15:00:00] [ftbbackups2_Worker-1/INFO]: Attempting to create an automatic backup
+[15:00:00] [ftbbackups2_Worker-1/INFO]: Found world folder at C:\Users\Kyle\curseforge\minecraft\Instances\1.20.1 Expert - Infinite Horizons - Modded Superflat Survival\saves\New World (1)\.
