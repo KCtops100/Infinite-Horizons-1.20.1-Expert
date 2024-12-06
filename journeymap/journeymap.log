@@ -48,3 +48,17 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.10.3, v
 [14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_purple.png
 [14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for farmingforblockheads:textures/entity_icon/merchant.png
 [14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_light_blue.png
+[14:38:58] [JM-task-4/WARN] [StatTimer] MapPlayerTask.performTask was slow: 11429.776829 (Warning limit reached)
+[14:38:58] [JM-task-4/WARN] [StatTimer] MapPlayerTask.performTask: Avg:  2515.26ms, Min:     1.13ms, Max:   14704.88ms, Total:       1949 sec, Count:      775, Canceled:        0, Slow:       10
+[14:39:33] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_pink.png
+[14:39:33] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/drygmy_brown.png
+[14:39:33] [Render thread/WARN] [JMLogger] Can't get entityTexture for workers:textures/entity_icon/villager/cattle_farmer.png
+[14:39:33] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_red.png
+[14:39:33] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_purple.png
+[14:39:33] [Render thread/WARN] [JMLogger] Can't get entityTexture for farmingforblockheads:textures/entity_icon/merchant.png
+[14:39:33] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_light_blue.png
+[14:39:55] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/whirlisprig_summer.png
+[14:39:55] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_blue.png
+[14:39:55] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_orange.png
+[14:39:55] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_black.png
+[14:45:24] [Render thread/WARN] [JMLogger] Can't get entityTexture for irons_spellbooks:textures/entity_icon/necromancer.png
