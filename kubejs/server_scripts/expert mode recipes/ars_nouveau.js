@@ -49,8 +49,16 @@ ServerEvents.recipes(event => {
 	    4000,
 	    true
 	);
-    //source gem
+    // source gem
     event.remove({ id: 'ars_nouveau:imbuement_lapis' })
     event.remove({ id: 'ars_nouveau:imbuement_amethyst' })
     event.recipes.ars_nouveau.imbuement('mysticalagriculture:prosperity_gemstone', 'ars_nouveau:source_gem', 500, [])
+    // magebloom fiber
+    event.remove({ id: 'ars_nouveau:magebloom_fiber' })
+    event.custom({
+        type: 'farmersdelight:cutting',
+        ingredients: [{ item: 'ars_nouveau:magebloom' }],
+        tool: { tag: 'forge:tools/knives' },
+        result: [{ item: 'ars_nouveau:magebloom_fiber', count: 4 }]
+    })
 })
