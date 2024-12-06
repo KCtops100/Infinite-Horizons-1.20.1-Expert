@@ -1,0 +1,47 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zeta"
+	group: "6F4C25734B575319"
+	icon: "ars_nouveau:source_gem"
+	id: "236B22925B612D96"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "623D81C5CAC2F6B1"
+			tasks: [{
+				id: "58503924ECC85A9C"
+				item: "mysticalagriculture:prosperity_gemstone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"623D81C5CAC2F6B1"
+				"5E07B27E5BE44C49"
+			]
+			id: "729EA1479E16CA1A"
+			tasks: [{
+				id: "57E770E086EA047C"
+				item: "ars_nouveau:source_gem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "5E07B27E5BE44C49"
+			tasks: [{
+				id: "0003FA0897AE5C7E"
+				item: "ars_nouveau:imbuement_chamber"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+	title: "Zeta"
+}

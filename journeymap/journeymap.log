@@ -1,14 +1,14 @@
-[08:30:32] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[08:30:32] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[08:30:32] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[08:30:32] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[08:30:32] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.core.compatibility.journeymap.JourneymapPlugin
-[08:30:32] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
-[08:30:32] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.anthonyhilyard.merchantmarkers.compat.JourneymapHandler
-[08:30:32] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.railwayteam.railways.compat.journeymap.RailwayMapPlugin
-[08:30:32] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.gregtechceu.gtceu.integration.map.journeymap.JourneyMapPlugin
-[08:30:33] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[08:30:33] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.10.3, built with forge 1.20.1-47.2.30
+[13:57:53] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[13:57:53] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[13:57:53] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[13:57:53] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:57:53] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.core.compatibility.journeymap.JourneymapPlugin
+[13:57:53] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[13:57:53] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.anthonyhilyard.merchantmarkers.compat.JourneymapHandler
+[13:57:53] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.railwayteam.railways.compat.journeymap.RailwayMapPlugin
+[13:57:53] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.gregtechceu.gtceu.integration.map.journeymap.JourneyMapPlugin
+[13:57:54] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[13:57:54] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.10.3, built with forge 1.20.1-47.2.30
 forge: 47.3.11
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -26,28 +26,25 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.1
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.10.3, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.10.3, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.10.3, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.10.3, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[08:30:34] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 1766.98ms
-[08:31:28] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
-[08:31:29] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[08:31:29] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 677.4ms
-[08:33:48] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[08:38:55] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
-[08:38:55] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[08:38:56] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
-[08:38:57] [Render thread/INFO] [WaypointStore] Loaded 5 waypoints from C:\Users\Kyle\curseforge\minecraft\Instances\1.20.1 - Infinite Horizons - Modded Superflat Survival\journeymap\data\sp\New World (1)\waypoints
-[08:38:57] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Kyle\curseforge\minecraft\Instances\1.20.1 - Infinite Horizons - Modded Superflat Survival\journeymap\data\sp\New World (1)\overworld. Memory: 9816MB total, 3961MB free 
-[08:38:57] [Render thread/INFO] [WaypointGroupStore] Loaded WaypointGroups file C:\Users\Kyle\curseforge\minecraft\Instances\1.20.1 - Infinite Horizons - Modded Superflat Survival\journeymap\data\sp\New World (1)\waypoints\waypoint_groups.json
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/drygmy_brown.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/whirlisprig_summer.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_blue.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_orange.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_black.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for workers:textures/entity_icon/villager/cattle_farmer.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_red.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_purple.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_pink.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for farmingforblockheads:textures/entity_icon/merchant.png
-[08:39:16] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_light_blue.png
-[08:39:18] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Kyle\curseforge\minecraft\Instances\1.20.1 - Infinite Horizons - Modded Superflat Survival\journeymap\data\mp\offline\minecraft:overworld
-[08:39:18] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@3c01be34
-[08:39:23] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[13:57:54] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 770.26ms
+[13:59:00] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[13:59:00] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[13:59:00] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 593.94ms
+[14:00:52] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[14:04:19] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
+[14:04:19] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[14:04:19] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[14:04:20] [Render thread/INFO] [WaypointStore] Loaded 5 waypoints from C:\Users\Kyle\curseforge\minecraft\Instances\1.20.1 Expert - Infinite Horizons - Modded Superflat Survival\journeymap\data\sp\New World (1)\waypoints
+[14:04:20] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Kyle\curseforge\minecraft\Instances\1.20.1 Expert - Infinite Horizons - Modded Superflat Survival\journeymap\data\sp\New World (1)\overworld. Memory: 10736MB total, 5219MB free 
+[14:04:20] [Render thread/INFO] [WaypointGroupStore] Loaded WaypointGroups file C:\Users\Kyle\curseforge\minecraft\Instances\1.20.1 Expert - Infinite Horizons - Modded Superflat Survival\journeymap\data\sp\New World (1)\waypoints\waypoint_groups.json
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/drygmy_brown.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/whirlisprig_summer.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_blue.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_orange.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_black.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_pink.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for workers:textures/entity_icon/villager/cattle_farmer.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_red.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_purple.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for farmingforblockheads:textures/entity_icon/merchant.png
+[14:04:30] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_light_blue.png

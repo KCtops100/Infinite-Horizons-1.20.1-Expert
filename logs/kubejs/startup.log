@@ -1,73 +1,73 @@
-[08:29:06] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[08:29:06] [INIT] Loaded plugins:
-[08:29:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[08:29:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[08:29:06] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
-[08:29:06] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[08:29:06] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[08:29:06] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[08:29:06] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[08:29:06] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[08:29:06] [INIT] - com.falaut.KubeJSNaturesAuraPlugin
-[08:29:06] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
-[08:29:06] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[08:29:06] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
-[08:29:06] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[08:29:06] [INIT] - com.almostreliable.morejs.Plugin
-[08:29:06] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
-[08:29:06] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[08:29:06] [INIT] - com.probejs.ProbeJSPlugin
-[08:29:06] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
-[08:29:06] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[08:29:06] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
-[08:29:06] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[08:29:06] [INIT] - net.cathienova.kubejsbloodmagic.KubeJSBloodMagicPlugin
-[08:29:06] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
-[08:29:06] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
-[08:29:12] [INFO] Loaded script startup_scripts:agronomancer_workbench.js in 0.101 s
-[08:29:12] [INFO] Loaded script startup_scripts:apiarist_workbench.js in 0.002 s
-[08:29:12] [INFO] Loaded script startup_scripts:arrow.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:blue_candle.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:bomb.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:boomerang.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:bow.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:catalysts.js in 0.005 s
-[08:29:12] [INFO] Loaded script startup_scripts:chicken_fried_steak_ingot.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:crafting_components.js in 0.002 s
-[08:29:12] [INFO] Loaded script startup_scripts:create_sifter.js in 0.002 s
-[08:29:12] [INFO] Loaded script startup_scripts:desert_temple_dungeon_key.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:diatomite.js in 0.002 s
-[08:29:12] [INFO] Loaded script startup_scripts:explorers_map.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:forbidden_transmutation_powder.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/andesite_gravel.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/basalt_gravel.js in 0.002 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/deepslate_gravel.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/diorite_gravel.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/end_stone_gravel.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/granite_gravel.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/limestone_gravel.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/netherrack_gravel.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:gravel/tuff_gravel.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:infinitium_ingot.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:infinitium_plate.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:jungle_temple_dungeon_key.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:magical_boomerang.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:magical_shield.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:magical_sword.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:mekanism_mystery_box.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:netherite_plate.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:netherite_wire.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:ore dictionary/dust.js in 0.003 s
-[08:29:12] [INFO] Loaded script startup_scripts:ore dictionary/ingot.js in 0.002 s
-[08:29:12] [INFO] Loaded script startup_scripts:ore dictionary/plate.js in 0.003 s
-[08:29:12] [INFO] Loaded script startup_scripts:ore dictionary/silicon.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:red_candle.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:replacingKubeJSDisplay.js in 0.002 s
-[08:29:12] [INFO] Loaded script startup_scripts:silver_arrow.js in 0.002 s
-[08:29:12] [INFO] Loaded script startup_scripts:steam.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:stone_alloy.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:stronghold_dungeon_key.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:sword.js in 0.001 s
-[08:29:12] [INFO] Loaded script startup_scripts:white_sword.js in 0.0 s
-[08:29:12] [INFO] Loaded script startup_scripts:wooden_shield.js in 0.001 s
-[08:29:12] [INFO] Loaded 46/46 KubeJS startup scripts in 3.729 s with 0 errors and 0 warnings
+[13:56:42] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[13:56:42] [INIT] Loaded plugins:
+[13:56:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[13:56:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[13:56:42] [INIT] - fr.iglee42.createcasing.compat.kubejs.KubeJSCompatPlugin
+[13:56:42] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[13:56:42] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[13:56:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[13:56:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[13:56:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[13:56:42] [INIT] - com.falaut.KubeJSNaturesAuraPlugin
+[13:56:42] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[13:56:42] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[13:56:42] [INIT] - com.oierbravo.createsifter.compat.kubejs.KubeJSCreatesifterPlugin
+[13:56:42] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[13:56:42] [INIT] - com.almostreliable.morejs.Plugin
+[13:56:42] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[13:56:42] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[13:56:42] [INIT] - com.probejs.ProbeJSPlugin
+[13:56:42] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[13:56:42] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[13:56:42] [INIT] - com.almostreliable.summoningrituals.compat.kubejs.AlmostKube
+[13:56:42] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[13:56:42] [INIT] - net.cathienova.kubejsbloodmagic.KubeJSBloodMagicPlugin
+[13:56:42] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[13:56:42] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[13:56:45] [INFO] Loaded script startup_scripts:agronomancer_workbench.js in 0.22 s
+[13:56:45] [INFO] Loaded script startup_scripts:apiarist_workbench.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:arrow.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:blue_candle.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:bomb.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:boomerang.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:bow.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:catalysts.js in 0.006 s
+[13:56:45] [INFO] Loaded script startup_scripts:chicken_fried_steak_ingot.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:crafting_components.js in 0.003 s
+[13:56:45] [INFO] Loaded script startup_scripts:create_sifter.js in 0.002 s
+[13:56:45] [INFO] Loaded script startup_scripts:desert_temple_dungeon_key.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:diatomite.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:explorers_map.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:forbidden_transmutation_powder.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/andesite_gravel.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/basalt_gravel.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/deepslate_gravel.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/diorite_gravel.js in 0.002 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/end_stone_gravel.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/granite_gravel.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/limestone_gravel.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/netherrack_gravel.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:gravel/tuff_gravel.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:infinitium_ingot.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:infinitium_plate.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:jungle_temple_dungeon_key.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:magical_boomerang.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:magical_shield.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:magical_sword.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:mekanism_mystery_box.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:netherite_plate.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:netherite_wire.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:ore dictionary/dust.js in 0.003 s
+[13:56:45] [INFO] Loaded script startup_scripts:ore dictionary/ingot.js in 0.001 s
+[13:56:45] [INFO] Loaded script startup_scripts:ore dictionary/plate.js in 0.002 s
+[13:56:45] [INFO] Loaded script startup_scripts:ore dictionary/silicon.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:red_candle.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:replacingKubeJSDisplay.js in 0.006 s
+[13:56:45] [INFO] Loaded script startup_scripts:silver_arrow.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:steam.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:stone_alloy.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:stronghold_dungeon_key.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:sword.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:white_sword.js in 0.0 s
+[13:56:45] [INFO] Loaded script startup_scripts:wooden_shield.js in 0.0 s
+[13:56:45] [INFO] Loaded 46/46 KubeJS startup scripts in 2.572 s with 0 errors and 0 warnings
